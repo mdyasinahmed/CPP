@@ -33,7 +33,7 @@ int main()
     long int li;
     cout<<"size of long int "<<sizeof(li)<<endl;
 
-
+    
 
 
     return 0;
