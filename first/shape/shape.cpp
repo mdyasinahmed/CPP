@@ -8,4 +8,5 @@ int main()
     cout << " /  |" << endl;
     cout << "/___|" << endl;
 
+    return 0;
 }
