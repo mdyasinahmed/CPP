@@ -9,8 +9,7 @@ int main()
     if(a>b){
         if(a>c){
             cout<<a<<endl;
-        }
-        else{
+        }else{
             cout<<c<<endl;
         }
     }else{
@@ -22,5 +21,5 @@ int main()
         }
     }
 
-
+    return 0;
 }
