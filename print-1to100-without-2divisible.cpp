@@ -7,6 +7,7 @@ int main()
         if(i%2==0)
         {
             continue;
+            //break;
         }
         cout<<i<<endl;
     }
