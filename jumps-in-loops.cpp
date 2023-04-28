@@ -8,7 +8,8 @@ int main()
 
     int salary = 3000;
 
-    for(int date=1;date<=30;date++){
+    for(int date=1;date<=30;date++)
+    {
 
         if(date%2==0)
         {
@@ -20,8 +21,6 @@ int main()
 
         cout<<"Go out Today!!"<<endl;
         salary-=500;
-        
-
     }
 
 
