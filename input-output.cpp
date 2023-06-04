@@ -21,5 +21,14 @@ int main()
     calculate = amount1/amount2;
     cout<<"Divide: "<<calculate<<endl;
 
+
+    cout<<endl;
+    cout<<"Enter your 'Name' and 'ID': ";
+    char name;
+    int id;
+    cin >>name >>id;
+
+    printf();
+    
     return 0;
 }
